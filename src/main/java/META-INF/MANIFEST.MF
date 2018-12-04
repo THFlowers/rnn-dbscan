@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: hipparchus-clustering-1.3.jar hippar
+ chus-code-1.3.jar hipparchus-stat-1.3.jar java-graphs-0.41.jar java-s
+ pamsum-0.1.jar java-string-similarity-0.13.jar jfreechart-1.5.0.jar j
+ unit-4.12.jar slfj-api-1.7.22.jar
+Main-Class: rnndbscan.ParameterScan
+

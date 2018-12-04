@@ -1,0 +1,16 @@
+Note 1)
+
+t7.10k was not available in either main dataset repository.
+
+I lifted it from https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/artificial/cluto-t7-10k.arff
+
+Originally from "Chameleon: Hierarchical clustering using dynamic moderling." Computer 32.8 (1999): 68-75
+
+Previously from "CLUTO A Clustering Toolkit"
+
+More details in "cluto-t7-10k.arff"
+
+
+Note 2)
+
+The Grid Dataset was made for the original paper, but is cited as coming from the Finland databse.

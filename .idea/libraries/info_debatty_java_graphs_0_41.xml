@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="info.debatty:java-graphs:0.41" type="repository">
+    <properties maven-id="info.debatty:java-graphs:0.41" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/debatty/java-graphs/0.41/java-graphs-0.41.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/debatty/java-string-similarity/0.13/java-string-similarity-0.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/debatty/java-spamsum/0.1/java-spamsum-0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/info/debatty/java-graphs/0.41/java-graphs-0.41-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/debatty/java-string-similarity/0.13/java-string-similarity-0.13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/debatty/java-spamsum/0.1/java-spamsum-0.1-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

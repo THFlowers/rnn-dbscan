@@ -30,7 +30,7 @@ import static org.hipparchus.util.CombinatoricsUtils.binomialCoefficient;
  *
  * The v option outputs each iterations
  *
- * Primarily invoked via a helper bash script that should automatically generate a tables like Tbl 3-5
+ * Primarily invoked via a helper bash script that should automatically generate tables like Tbl 3-5
  ***/
 
 public class ParameterScan {

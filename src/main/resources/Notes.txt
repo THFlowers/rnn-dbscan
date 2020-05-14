@@ -13,4 +13,4 @@ More details in "cluto-t7-10k.arff"
 
 Note 2)
 
-The Grid Dataset was made for the original paper, but is cited as coming from the Finland databse.
+The Grid Dataset was made for the original paper, but is cited as coming from the Finland database.

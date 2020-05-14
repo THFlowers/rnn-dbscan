@@ -1,17 +1,12 @@
 package rnndbscan;
 
-import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JFrame;
-import javax.swing.SwingUtilities;
-import javax.swing.WindowConstants;
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
-import org.jfree.chart.plot.XYPlot;
-import org.jfree.data.xy.XYDataset;
 import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
 
@@ -21,9 +16,9 @@ import org.hipparchus.clustering.DoublePoint;
 import static java.lang.String.format;
 
 public class xyScatterPlot extends JFrame {
-    public xyScatterPlot(List<Cluster<DoublePoint>> clusters, ArrayList<DoublePoint> data) {
+    public xyScatterPlot(String name, List<Cluster<DoublePoint>> clusters, ArrayList<DoublePoint> data) {
 
-        super("xy Results");
+        super(name);
 
         XYSeriesCollection dataset = new XYSeriesCollection();
         XYSeries[] series = new XYSeries[clusters.size()];
